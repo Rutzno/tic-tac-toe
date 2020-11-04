@@ -2,6 +2,10 @@ package tictactoe;
 
 import java.util.Scanner;
 
+/**
+ * @author Mack_TB
+ */
+
 public class Main {
 
     static Scanner sc;
